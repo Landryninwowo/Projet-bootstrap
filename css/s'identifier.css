@@ -1,0 +1,21 @@
+.col{
+    margin-left: 20%;
+}
+.para1{
+    margin-left: 45px;
+    margin-top: -42px;
+}
+.para2{
+    margin-left: 45px;
+    margin-top: -15px;
+}
+body{
+    height: 1500px;
+}
+.para3 p{
+    text-indent: 10px;
+    text-align: center;
+}
+.para3 h6{
+    text-align: center;
+}
